@@ -24,6 +24,6 @@ Section 3. Using the libraries and data files from above, the statistical summar
 Section 4. The conclusion. Tying the plots and statistical summaries together, I conform a conclusion as to the importance of the dataset and
 why it is interesting. <br>
 
-References. I did not use alot of references for a couple of reasons. 1. I did not do alot of writing on the subject as I believe the subject is meant to be a quick study in learning about being careful when analyzing the summary data. This only tells one side of the story. You should also include visualization tools such as graphs to get a complete picture. 2. For the plotting and descriptive statistics, I relied on my notes and Programming and Scripting prijects from last semester to help me.
+References. I did not use alot of references for a couple of reasons. 1. I did not do alot of writing on the subject as I believe the subject is meant to be a quick study in learning about being careful when analyzing the summary data. This only tells one side of the story. You should also include visualization tools such as graphs to get a complete picture. 2. For the plotting and descriptive statistics, I relied on my notes and projects from Programming and Scripting from last semester.
 
                
